@@ -1,0 +1,48 @@
+.container{
+position: relative;
+text-align: center;
+color: white;
+}
+h1{
+ position:absolute;
+ left:380px;
+ bottom:40px;
+ font-family: 'Trebuchet MS';
+ font-size: 60px;
+ color: gold;
+ 
+ 
+}
+body{
+    background-color:lightyellow;
+}
+ 
+section {
+    font-family:Verdana;
+    background-color: lightgray;
+    width: 60%;
+    margin-left: 20%;
+    padding:20px;
+
+}
+
+#navitop{
+    padding: 10px;
+    font-size: 20px;
+    background-color:black;
+    margin:0px;
+    border-bottom: solid 15px rgb(230, 157, 21);
+    color: bisque;
+    font-family: cursive
+  
+
+}
+    
+
+ ul li {
+    text-decoration:none;
+    list-style:none;
+    display:inline-block;
+    padding: 40px;
+ }
+
